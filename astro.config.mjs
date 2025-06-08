@@ -21,7 +21,10 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/cloudnativenorway' }],
 			sidebar: [
 				{
-					label: 'The Organization',
+					label: 'Organisasjonen',
+					translations: {
+						'en': 'The Organization',
+					},
 					items: [
 						{ slug: 'org/who' },
 						{ slug: 'org/what' },
@@ -29,7 +32,10 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Services',
+					label: 'Hva vi tilbyr',
+					translations: {
+						'en': 'Services',
+					},
 					autogenerate: { directory: 'services' },
 				},
 			],
