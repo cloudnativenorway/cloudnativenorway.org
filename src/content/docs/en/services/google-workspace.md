@@ -3,6 +3,8 @@ title: Google Workspace
 description: This page summerize what tools in Google Workspace can we set up for you. 
 ---
 
+> Work in Progress
+
 Through _Google for Nonprofits_ program, we have free Google Workspace subscriptions. This means that we can offer the community the full Google business tools, and set up distribution lists for emails.
 
 ## Google Workspace
